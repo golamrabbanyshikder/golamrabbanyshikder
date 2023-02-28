@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @golamrabbanyshikder
-- 👀 I’m interested in Software Backend developer
-- 🌱 I’m currently learning java,spring boot,mysql
+- 👀 I’m interested in Software developer
+- 🌱 I’m currently learning java,spring boot,mysql,HTML&CSS.
 - 📫 How to reach me,this is my linkedin id(https://www.linkedin.com/in/golam-rabbany/) . You will contact with this.
 
 <!---
